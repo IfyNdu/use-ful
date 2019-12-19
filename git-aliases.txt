@@ -1,0 +1,6 @@
+[alias]
+    st = status
+    br = branch
+    co = checkout
+    cm = commit --amend
+    fwl = push --force-with-lease origin
